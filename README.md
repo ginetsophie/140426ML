@@ -134,14 +134,7 @@ weighted avg       0.84      0.79      0.81     16000
 ![](reports/bank/01_class_distribution.png)
 ![](reports/bank/02_correlation_heatmap.png)
 ![](reports/bank/03_confusion_matrix.png)
-![](reports/bank/04_roc_curve.png)
-![](reports/bank/05_precision_recall_curve.png)
-![](reports/bank/06_feature_importance.png)
-![](reports/bank/07_permutation_importance.png)
-![](reports/bank/08_learning_curve.png)
-![](reports/bank/09_validation_curve.png)
-![](reports/bank/10_calibration_curve.png)
-![](reports/bank/11_prob_distribution.png)
+![](reports/bank/04_feature_importance.png)
 
 ## Bảo trì và phát triển
 - ginanightbunny@gmail.com
